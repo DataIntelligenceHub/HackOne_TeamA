@@ -19,3 +19,7 @@ Source of Data	: https://www.kaggle.com/c/prudential-life-insurance-assessment/d
 Total No of Rows	: 59381
 Total No of Variables	: 128
 Time Period	: NA (The competition is closed)
+
+Our Solution:
+
+https://gallery.cortanaintelligence.com/Experiment/Health-Insurance-Data-Final2
