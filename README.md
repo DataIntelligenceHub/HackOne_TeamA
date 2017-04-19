@@ -18,5 +18,4 @@ File Name	: Train.csv
 Source of Data	: https://www.kaggle.com/c/prudential-life-insurance-assessment/data
 Total No of Rows	: 59381
 Total No of Variables	: 128
-Time Period	: NA (The time period is not mentioned on the source website)
-Identifying Variable
+Time Period	: NA (The competition is closed)
